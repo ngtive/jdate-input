@@ -13,7 +13,6 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "imask": "^7.5.0",
     "moment-jalaali": "^0.10.0",
     "primevue": "^3.49.1",
     "vue": "^3.4.21",
